@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/APTricou/2020-04-22-Noisemaker/static/css/main.db0dba5c.chunk.css",
-    "main.js": "/APTricou/2020-04-22-Noisemaker/static/js/main.3a60b088.chunk.js",
-    "main.js.map": "/APTricou/2020-04-22-Noisemaker/static/js/main.3a60b088.chunk.js.map",
-    "runtime-main.js": "/APTricou/2020-04-22-Noisemaker/static/js/runtime-main.fd45cab8.js",
-    "runtime-main.js.map": "/APTricou/2020-04-22-Noisemaker/static/js/runtime-main.fd45cab8.js.map",
-    "static/js/2.c40b0f20.chunk.js": "/APTricou/2020-04-22-Noisemaker/static/js/2.c40b0f20.chunk.js",
-    "static/js/2.c40b0f20.chunk.js.map": "/APTricou/2020-04-22-Noisemaker/static/js/2.c40b0f20.chunk.js.map",
-    "index.html": "/APTricou/2020-04-22-Noisemaker/index.html",
-    "precache-manifest.61e74157ed3c4d3b3e8d785c7b408dd7.js": "/APTricou/2020-04-22-Noisemaker/precache-manifest.61e74157ed3c4d3b3e8d785c7b408dd7.js",
-    "service-worker.js": "/APTricou/2020-04-22-Noisemaker/service-worker.js",
-    "static/css/main.db0dba5c.chunk.css.map": "/APTricou/2020-04-22-Noisemaker/static/css/main.db0dba5c.chunk.css.map",
-    "static/js/2.c40b0f20.chunk.js.LICENSE.txt": "/APTricou/2020-04-22-Noisemaker/static/js/2.c40b0f20.chunk.js.LICENSE.txt"
+    "main.css": "/2020-04-22-Noisemaker/static/css/main.db0dba5c.chunk.css",
+    "main.js": "/2020-04-22-Noisemaker/static/js/main.ea998142.chunk.js",
+    "main.js.map": "/2020-04-22-Noisemaker/static/js/main.ea998142.chunk.js.map",
+    "runtime-main.js": "/2020-04-22-Noisemaker/static/js/runtime-main.9b9f54b9.js",
+    "runtime-main.js.map": "/2020-04-22-Noisemaker/static/js/runtime-main.9b9f54b9.js.map",
+    "static/js/2.4ac93f31.chunk.js": "/2020-04-22-Noisemaker/static/js/2.4ac93f31.chunk.js",
+    "static/js/2.4ac93f31.chunk.js.map": "/2020-04-22-Noisemaker/static/js/2.4ac93f31.chunk.js.map",
+    "index.html": "/2020-04-22-Noisemaker/index.html",
+    "precache-manifest.dec75c29afcd4dd8cde307f406f3e841.js": "/2020-04-22-Noisemaker/precache-manifest.dec75c29afcd4dd8cde307f406f3e841.js",
+    "service-worker.js": "/2020-04-22-Noisemaker/service-worker.js",
+    "static/css/main.db0dba5c.chunk.css.map": "/2020-04-22-Noisemaker/static/css/main.db0dba5c.chunk.css.map",
+    "static/js/2.4ac93f31.chunk.js.LICENSE.txt": "/2020-04-22-Noisemaker/static/js/2.4ac93f31.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd45cab8.js",
-    "static/js/2.c40b0f20.chunk.js",
+    "static/js/runtime-main.9b9f54b9.js",
+    "static/js/2.4ac93f31.chunk.js",
     "static/css/main.db0dba5c.chunk.css",
-    "static/js/main.3a60b088.chunk.js"
+    "static/js/main.ea998142.chunk.js"
   ]
 }
